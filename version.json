@@ -1,14 +1,23 @@
 {
-  "version": "1.3.6",
-  "version_code": 136,
-  "tanggal_rilis": "2026-10-20",
+  "version": "1.3.8",
+  "version_code": 138,
+  "tanggal_rilis": "2026-11-09",
   "wajib_update": false,
-  "url_download": " ",
+  "url_download": "https://www.mediafire.com/file/j3t2eso23nm9z9p/STRUK-SPBU-V1.3.8.apk/file",
   "url_update": "https://strukspbu-web.fauziproject.my.id/",
-  "ukuran": "3.22 MB",
+  "ukuran": "3.23 MB",
   "catatan": [
-    "Pembaruan wajib!",
-    "Server aplikasi telah pindah ke sistem dan domain baru.",
-    "Harap segera unduh versi terbaru ini agar aplikasi tetap bisa digunakan."
+    "Melakukan penyesuaian No.Transaksi yang diatur sesuai format waktu, jika waktu maju maka No.Transaksi akan naik, jika waktu mundur maka No.Transaksi akan turun.",
+    "Layanan login/server menggunakan domain API pribadi dan pemeriksaan pembaruan menggunakan https://strukspbu-web.fauziproject.my.id.",
+    "Tampilan diperbarui dari Glassmorphism ke Claymorphism dengan nuansa biru premium dan efek timbul 3D.",
+    "Koneksi Bluetooth ditingkatkan dengan tombol Putuskan Perangkat, pengamanan proses koneksi, dan pemeriksaan koneksi lama sebelum berpindah printer.",
+    "Navigasi tombol Kembali Android ditingkatkan untuk menutup menu atau modal, kembali dari pratinjau struk, dan keluar dari aplikasi.",
+    "Menu Pengaturan kini dilengkapi akses Website, Chat Admin melalui WhatsApp, dan Email.",
+    "Harga bawaan Pertalite Non-Subsidi diperbarui menjadi Rp19.629/liter. Harga yang sudah tersimpan di perangkat tidak ditimpa oleh nilai bawaan ini.",
+    "Fitur Riwayat Transaksi dihapus dari menu; riwayat nama operator tetap tersedia.",
+    "Jika nama operator kosong, hasil cetak menggunakan nama PENGAWAS.",
+    "Merubah tampilan dropdown untuk kolom input pompa dan nozzle.",
+    "Melakukan perbaikan bug pada fungsi code lainnya.",
+    "Perhitungan volume dan kembalian serta susunan dasar struk tetap dipertahankan."
   ]
 }
